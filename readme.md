@@ -1,0 +1,1 @@
+Hey Geeks, So I have created a GUI Notepad Using Tkinter. Hope you like it.
